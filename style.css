@@ -1,0 +1,52 @@
+.description{
+    text-align: center;
+    width: 600px;
+    margin-top: 50px;
+    font-size: 18pt;
+    padding-left: 450px;
+
+}
+
+
+h2{ 
+    margin-left: 35px;
+    margin-top: 30px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 70px;
+}
+
+ul{margin-left: 900px;
+    margin-top: -310px
+ }
+     
+ ul li{display: inline-block;
+       list-style-type: none; 
+       padding: 26px;
+       font-size: 14pt;
+       }
+
+#uxdesign{
+    text-decoration: none;
+            color: black;
+}
+#uxdesign:hover{color:#d76332;}
+
+#creative{text-decoration: none;
+    color: black;}
+#creative:hover{color: #d76332;}
+
+#about{text-decoration: none;
+    color: black;}
+#about:hover{color: #d76332;}
+
+#resume{text-decoration: none;
+    color: black;}
+#resume:hover{color: #d76332;}
+
+body{ 
+    border: 50px;
+    
+}
