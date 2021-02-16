@@ -1,0 +1,3 @@
+function Openresume (){
+    $("p").hide()
+}
